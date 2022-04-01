@@ -1,10 +1,9 @@
-package com.tang.modernjavainaction.chap05;
+package com.tang.modernjavainaction.chap5;
 
-import com.tang.modernjavainaction.chap04.Dish;
+import com.tang.modernjavainaction.chap4.Dish;
 
-import static com.tang.modernjavainaction.chap04.Dish.menu;
+import static com.tang.modernjavainaction.chap4.Dish.menu;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;

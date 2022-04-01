@@ -1,6 +1,5 @@
-package com.tang.modernjavainaction.chap05;
+package com.tang.modernjavainaction.chap5;
 
-import java.sql.Array;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;

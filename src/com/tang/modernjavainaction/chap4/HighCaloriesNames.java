@@ -1,7 +1,6 @@
-package com.tang.modernjavainaction.chap04;
+package com.tang.modernjavainaction.chap4;
 
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 
 /**

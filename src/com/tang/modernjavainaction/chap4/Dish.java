@@ -1,4 +1,4 @@
-package com.tang.modernjavainaction.chap04;
+package com.tang.modernjavainaction.chap4;
 
 import java.util.Arrays;
 import java.util.List;
